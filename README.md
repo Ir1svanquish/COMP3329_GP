@@ -101,7 +101,7 @@ Not needed obviously.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/likelimulu/COMP3329_GP)
+Project Link: [https://github.com/likelimulu/COMP3329_GP](https://github.com/likelimulu/COMP3329_GP)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
